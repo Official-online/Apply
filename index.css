@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+    margin-top: 30%;
+}
+div{
+    text-align: center;
+}
+p{
+    font-size: 200%;
+    font-family:'charm';
+    font-weight: bold;
+    border-radius: 15px;
+    width: 30%;
+    margin-left: 30%;
+    padding: 5%;
+    background-color: rgb(28, 179, 190);
+    text-align: center;
+}
+p:hover{
+    background-color: rgb(235, 187, 27);
+    color: rgb(28, 179, 190);
+}
