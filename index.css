@@ -6,8 +6,8 @@ div{
     text-align: center;
 }
 p{
-    font-size: 200%;
-    font-family:'charm';
+    font-size: 120%;
+    /* font-family:'charm'; */
     font-weight: bold;
     border-radius: 15px;
     width: 30%;
